@@ -1,3 +1,4 @@
-# Meu-trabalho-js
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Asteca-monogamico/Meu-trabalho-js)
+Vai ser uma aula de Java script
+Matéria de back end com um professor muito legal chamado joão;
+Me chamo Abner Henrique,
+Acredito que vai ser uma aula muito interessante
