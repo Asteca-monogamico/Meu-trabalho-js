@@ -11,3 +11,10 @@
     console.log(`Subtração: ${sub}`);
 
     //Condição da soma 
+    if (soma >=100) {
+        console.log("eu sou maior ou igual a 100")    
+    }
+    //Condição de subtração 
+    if (sub <0) {
+        console.log("subtração menor que 0");
+    }
