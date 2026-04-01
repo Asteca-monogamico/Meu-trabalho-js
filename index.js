@@ -3,8 +3,8 @@
     let b = 30;
 
     //Fazendo a soma e a subtração.
-    let soma = a + b;
-    let sub = a - b;
+    const soma = a + b;
+    const sub = a - b;
 
     //Agora mostrar os resultados para o usuário
     console.log(`Soma: ${soma}`);
